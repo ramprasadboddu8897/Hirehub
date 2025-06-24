@@ -2,6 +2,11 @@
 
 **HireHub** is a full-stack MERN (MongoDB, Express.js, React, Node.js) application for job seekers and hiring teams. It offers secure registration/login, job filtering, personalized user profiles, and detailed job views.
 
+## 📽️ Project Demo
+
+[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=XwbrGwu6q88)
+
+
 ---
 
 ## 📌 Table of Contents
